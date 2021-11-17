@@ -7,7 +7,7 @@
 </p>
 </br>
 
-<details>
+
 	<b>Language skills</b></br>
 	<p>
   	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -16,23 +16,22 @@
 		<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 	</p>
-</details>
 
-<details>
+
+
 	<b>Frameworks skills</b></br>
 	<p>
     <img alt="Springboot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>	
 		<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
     <img alt="React JS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 	</p>
-</details>
-<details>
+
+
 	<b>Database skills</b></br>
 	<p>
 		<img alt="MySql" src="https://img.shields.io/badge/MySQL-d11702?style=for-the-badge&logo=mysql&logoColor=white"/>
 	</p>
-</details>
-<details>
+
 	<b>Knowledge in</b></br>
 	<p>
 		<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -40,7 +39,7 @@
 		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	</p>
-</details>
+
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/Pablex05/Pablex05" alt="Pablex05" />
