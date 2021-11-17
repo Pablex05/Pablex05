@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Pablo Fracaro!</h1>
-</br>
-
+<h3 align="center">I'm a Computer Engineering Student</h3>
 <p align="center">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablex05&langs_count=8&layout=compact&hide=css,html, jupyter Notebook&theme=tokyonight" alt="Pablex05" />
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablex05&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Pablex05" />
