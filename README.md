@@ -4,7 +4,7 @@
 </br>
 
 <p align="center">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-y2k&langs_count=8&layout=compact&hide=css,html, jupyter Notebook&theme=tokyonight" alt="agustin-y2k" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustin-y2k&langs_count=8&layout=compact&hide=css,html, jupyter Notebook&theme=tokyonight" alt="Pablex05" />
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=agustin-y2k&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Pablex05" />
 </p>
 </br>
@@ -45,5 +45,5 @@
 </details>
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/agustin-y2k/agustin-y2k" alt="Pablex05" />
+<img src="https://badges.pufler.dev/visits/Pablex05/Pablex05" alt="Pablex05" />
 </p>
