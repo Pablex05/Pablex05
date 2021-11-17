@@ -13,6 +13,7 @@
 		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+		<img alt="Arduino" src="https://fossforce.com/wp-content/uploads/2016/08/Arduino_Logo.svg_.png" alt="arduino" width="75" height="45"/> </a>
 	</p>
 <h3 align="left"><b>Frameworks skills</b></h3>
 	<p>
@@ -31,5 +32,8 @@
 		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 	</p>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pablo-daniel-fracaro-ba86331a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-daniel-fracaro-ba86331a5" height="30" width="40" /></a>
+<a href="https://discord.gg/PABLEX#7413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PABLEX#7413" height="30" width="40" /></a>
+</p>
