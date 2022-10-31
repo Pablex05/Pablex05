@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm  Pablo Fracaro!</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
-<p align="center">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablex05&show_icons=true&theme=tokyonight" alt="Pablex05" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablex05&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Pablex05" />
-</p>
-</br>
-
+<a align="center" href="https://Pablex05.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pablex05&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablex05&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="languages" height="165">
+    </p>
+</a>
 <h3 align="left"><b>Language skills</b></h3>
 	<p>
   		<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -13,7 +12,7 @@
 		<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 		<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 		<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-		<img alt="Arduino" src="https://fossforce.com/wp-content/uploads/2016/08/Arduino_Logo.svg_.png" alt="arduino" width="75" height="45"/> </a>
+		<img alt="Arduino" src="https://fossforce.com/wp-content/uploads/2016/08/Arduino_Logo.svg_.png" alt="arduino" width="75" height="45"/> 
 	</p>
 <h3 align="left"><b>Frameworks skills</b></h3>
 	<p>
@@ -39,6 +38,3 @@
 <a href="https://discord.gg/PABLEX#7413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PABLEX#7413" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img src="https://badges.pufler.dev/visits/Pablex05/Pablex05" alt="Pablex05" />
-</p>
